@@ -12,6 +12,15 @@ This workspace contains a Hyprland configuration setup with a modular structure:
 
 ---
 
+
+
+https://github.com/user-attachments/assets/07115fda-143f-471f-8ded-b1b6ef2ecf87
+
+
+
+
+---
+
 ## Main Files
 
 ### hyprland.conf
